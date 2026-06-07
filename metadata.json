@@ -1,0 +1,6 @@
+{
+  "name": "Shiva Super Market ERP",
+  "description": "LAN-Based Retail Billing, POS and Inventory System for Shiva Super Market featuring role-based access, fast barcode billing, GST invoicing, and real-time stock management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
